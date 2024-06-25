@@ -1,0 +1,118 @@
+{
+  "submissions": [
+    {
+      "0": {
+        "answer": {
+          "label": "Happy",
+          "icon": "😊"
+        },
+        "question": "How do you feel today?"
+      },
+      "1": {
+        "answer": {
+          "label": "Loved it",
+          "icon": "😍"
+        },
+        "question": "How was your experience with our service?"
+      },
+      "2": {
+        "answer": {
+          "label": "Sunny",
+          "icon": "☀️"
+        },
+        "question": "How is the weather today?"
+      },
+      "3": {
+        "answer": {
+          "label": "Traveling",
+          "icon": "✈️"
+        },
+        "question": "How do you prefer to spend your weekend?"
+      },
+      "4": {
+        "answer": {
+          "label": "Dog",
+          "icon": "🐶"
+        },
+        "question": "What is your favorite animal?"
+      },
+      "id": "6094"
+    },
+    {
+      "0": {
+        "answer": {
+          "label": "Sad",
+          "icon": "😞"
+        },
+        "question": "How do you feel today?"
+      },
+      "1": {
+        "answer": {
+          "label": "Bad",
+          "icon": "👎"
+        },
+        "question": "How was your experience with our service?"
+      },
+      "2": {
+        "answer": {
+          "label": "Sunny",
+          "icon": "☀️"
+        },
+        "question": "How is the weather today?"
+      },
+      "3": {
+        "answer": {
+          "label": "Traveling",
+          "icon": "✈️"
+        },
+        "question": "How do you prefer to spend your weekend?"
+      },
+      "4": {
+        "answer": {
+          "label": "Dog",
+          "icon": "🐶"
+        },
+        "question": "What is your favorite animal?"
+      },
+      "id": "729a"
+    },
+    {
+      "0": {
+        "answer": {
+          "label": "Happy",
+          "icon": "😊"
+        },
+        "question": "How do you feel today?"
+      },
+      "1": {
+        "answer": {
+          "label": "Bad",
+          "icon": "👎"
+        },
+        "question": "How was your experience with our service?"
+      },
+      "2": {
+        "answer": {
+          "label": "Sunny",
+          "icon": "☀️"
+        },
+        "question": "How is the weather today?"
+      },
+      "3": {
+        "answer": {
+          "label": "Traveling",
+          "icon": "✈️"
+        },
+        "question": "How do you prefer to spend your weekend?"
+      },
+      "4": {
+        "answer": {
+          "label": "Dog",
+          "icon": "🐶"
+        },
+        "question": "What is your favorite animal?"
+      },
+      "id": "3381"
+    }
+  ]
+}

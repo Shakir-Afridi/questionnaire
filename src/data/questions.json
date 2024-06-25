@@ -1,0 +1,50 @@
+[
+    {
+        "title": "How do you feel today?",
+        "options": [
+            { "label": "Happy", "icon": "😊" },
+            { "label": "Sad", "icon": "😞" },
+            { "label": "Angry", "icon": "😡" },
+            { "label": "Neutral", "icon": "😐" }
+        ]
+    },
+    {
+        "title": "How was your experience with our service?",
+        "options": [
+            { "label": "Great", "icon": "👍" },
+            { "label": "Bad", "icon": "👎" },
+            { "label": "Average", "icon": "🤷‍♂️" },
+            { "label": "Loved it", "icon": "😍" }
+        ]
+    },
+    {
+        "title": "How is the weather today?",
+        "options": [
+            { "label": "Sunny", "icon": "☀️" },
+            { "label": "Cloudy", "icon": "☁️" },
+            { "label": "Rainy", "icon": "🌧️" },
+            { "label": "Snowy", "icon": "❄️" }
+        ]
+    },
+    {
+        "title": "How do you prefer to spend your weekend?",
+        "options": [
+            { "label": "Reading", "icon": "📚" },
+            { "label": "Traveling", "icon": "✈️" },
+            { "label": "Gaming", "icon": "🎮" },
+            { "label": "Cooking", "icon": "🍳" }
+        ]
+    },
+    {
+        "title": "What is your favorite animal?",
+        "options": [
+            { "label": "Dog", "icon": "🐶" },
+            { "label": "Cat", "icon": "🐱" },
+            { "label": "Bird", "icon": "🐦" },
+            { "label": "Fish", "icon": "🐠" }
+        ]
+    },
+    {
+        "title": "Summary"
+    }
+]

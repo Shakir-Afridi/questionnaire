@@ -1,0 +1,75 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+
+.option {
+  display: flex;
+  width: 100%;
+  cursor: pointer;
+  padding: 10px;
+  margin-bottom: 10px;
+  transition: background-color 0.3s ease-in-out;
+  margin-right: 10px;
+}
+
+
+.option:hover .label,
+.option.selected .label {
+  opacity: 1;
+}
+
+.option:hover,
+.option.selected {
+  background-color: #f0f0f0;
+}
+
+.left-half {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.right-half {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.logo {
+  margin: 20px;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  background-color: #fff;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.dot.active {
+  background-color: #6b54fe;
+  border: 2px solid #fff;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+
+@keyframes revealLeft {
+  from {
+    opacity: 0;
+    transform: translateX(100%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
