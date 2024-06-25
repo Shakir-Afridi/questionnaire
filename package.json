@@ -1,7 +1,7 @@
 {
-    "name": "rakband-assignment",
+    "name": "rakbank-assignment",
     "version": "0.1.0",
-    "author":"Shakir Ullah",
+    "author": "Shakir Ullah",
     "private": true,
     "dependencies": {
         "@emotion/react": "^11.11.4",
